@@ -1,6 +1,9 @@
 # Mapty
 A running/cycling tracker for your area using leaflet js.
 
+### Screenshot
+![screenshot](https://github.com/shtayeb/mapty/blob/main/screenshot.png)
+
 
 ## Features
 - Clean Code and Architecture
@@ -20,8 +23,12 @@ A running/cycling tracker for your area using leaflet js.
 - Ability to draw lines and shapes [Very Hard]
 - Display weather data for workout time and place
 
+## Architecture
+![arch](https://github.com/shtayeb/mapty/blob/main/Mapty-architecture-final.png)
 
 ## Flow charts
+
+![flowchart](https://github.com/shtayeb/mapty/blob/main/Mapty-flowchart.png)
 
 
 
